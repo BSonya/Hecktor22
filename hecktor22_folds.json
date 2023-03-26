@@ -1,0 +1,41 @@
+{
+    "testing": [
+        {
+            "image": "imagesTr/CHUM-001__CT.nii.gz",
+            "image2": "imagesTr/CHUM-001__PT.nii.gz",
+            "fold": 0
+        }
+    ],
+    "training": [
+        {
+            "image": "imagesTr/CHUM-002__CT.nii.gz",
+            "image2": "imagesTr/CHUM-002__PT.nii.gz",
+            "label": "labelsTr/CHUM-002.nii.gz",
+            "fold": 0
+        },
+        {
+            "image": "imagesTr/CHUM-006__CT.nii.gz",
+            "image2": "imagesTr/CHUM-006__PT.nii.gz",
+            "label": "labelsTr/CHUM-006.nii.gz",
+            "fold": 1
+        },
+        {
+            "image": "imagesTr/CHUM-007__CT.nii.gz",
+            "image2": "imagesTr/CHUM-007__PT.nii.gz",
+            "label": "labelsTr/CHUM-007.nii.gz",
+            "fold": 2
+        },
+        {
+            "image": "imagesTr/CHUM-008__CT.nii.gz",
+            "image2": "imagesTr/CHUM-008__PT.nii.gz",
+            "label": "labelsTr/CHUM-008.nii.gz",
+            "fold": 3
+        },
+        {
+            "image": "imagesTr/CHUM-010__CT.nii.gz",
+            "image2": "imagesTr/CHUM-010__PT.nii.gz",
+            "label": "labelsTr/CHUM-010.nii.gz",
+            "fold": 4
+        }
+    ]
+}
